@@ -1,4 +1,3 @@
 <?php
 
-// Testing
-// Testing
+echo 'foo: ' . time() . PHP_EOL;
