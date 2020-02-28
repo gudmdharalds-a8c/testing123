@@ -6,3 +6,5 @@ echo "testing " . time() . PHP_EOL;
 /* More comments */
 
    // Whitespace and comments
+
+echo  "testing " . time() . PHP_EOL;
