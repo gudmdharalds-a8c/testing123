@@ -1,1 +1,1 @@
-{"phpcs-sniffs-exclude":["WordPress.Security.EscapeOutput"]}
+{"phpcs-sniffs-exclude":["WordPress.Security.EscapeOutput","foo"]}
