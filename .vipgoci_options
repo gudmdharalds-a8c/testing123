@@ -1,2 +1,2 @@
-{"phpcs-sniffs-exclude":["WordPress.Security.ValidatedSanitizedInput","WordPress.Security.EscapeOutput","foo"]}
+{"phpcs-sniffs-exclude":["WordPress.Security.ValidatedSanitizedInput","foo"]}
 
