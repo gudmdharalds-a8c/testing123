@@ -1,2 +1,2 @@
-{"phpcs-sniffs-exclude":["WordPress.Security.ValidatedSanitizedInput","foo"]}
+{"phpcs-sniffs-exclude":["WordPress.Security.ValidatedSanitizedInput","WordPressVIPMinimum.Variables.ServerVariables","foo"]}
 
