@@ -1,2 +1,2 @@
-{"phpcs-sniffs-exclude":["WordPressVIPMinimum.Variables.RestrictedVariables","WordPress.Security.EscapeOutput","foo"],"phpcs-sniffs-include":["WordPressVIPMinimum.Performance.OrderByRand","WordPress.WP.PostsPerPage"]}
+{"phpcs-sniffs-exclude":["WordPressVIPMinimum.Variables.RestrictedVariables","WordPress.Security.EscapeOutput","foo"],"phpcs-sniffs-include":["WordPressVIPMinimum.Performance.OrderByRand","WordPress.WP.PostsPerPage", "foo2"]}
 
