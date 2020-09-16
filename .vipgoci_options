@@ -1,2 +1,2 @@
-{"phpcs-sniffs-exclude":["WordPressVIPMinimum.Variables.RestrictedVariables","WordPress.WP.PostsPerPage"],"phpcs-sniffs-include":["WordPressVIPMinimum.Performance.OrderByRand", "PHPCompatibility.Upgrade.LowPHP","WordPress.DB.DirectDatabaseQuery","WordPress.DB.RestrictedFunctions"],"skip-draft-prs":false}
+{"phpcs-sniffs-exclude":["WordPressVIPMinimum.Variables.RestrictedVariables","WordPress.Security.EscapeOutput.OutputNotEscaped","WordPress.WP.PostsPerPage"],"phpcs-sniffs-include":["WordPressVIPMinimum.Performance.OrderByRand", "PHPCompatibility.Upgrade.LowPHP","WordPress.DB.DirectDatabaseQuery","WordPress.DB.RestrictedFunctions"],"skip-draft-prs":false}
 
