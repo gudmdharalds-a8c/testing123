@@ -1,1 +1,1 @@
-{"results-comments-sort":true, "review-comments-include-severity": true, "phpcs": true, "hashes-api": false, "svg-checks": false, "autoapprove": false, "autoapprove-php-nonfunctional-changes": false}
+{"results-comments-sort":true, "review-comments-include-severity": true, "phpcs": true, "hashes-api": true, "svg-checks": false, "autoapprove": false, "autoapprove-php-nonfunctional-changes": false}
