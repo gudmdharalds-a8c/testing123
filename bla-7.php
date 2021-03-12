@@ -3,6 +3,9 @@
 echo $group{0};
 
 require get_template_directory() . '/inc/customizer.php';
+
+
+echo "foo" . time() . PHP_EOL;
  
  
  'attack';
@@ -50,7 +53,10 @@ require get_template_directory() . '/inc/customizer.php';
  'animals';
  'as';
  'gifts';
- 'bag';
+
+echo "foo" . time() . PHP_EOL;
+ 
+'bag';
  'stretch';
  '';
  'stand';
@@ -665,7 +671,10 @@ require get_template_directory() . '/inc/customizer.php';
  'as';
  'gifts';
  'flop';
- 'over';
+echo "foo" . time() . PHP_EOL;
+
+ 
+'over';
  'flop';
  'over';
  '';
@@ -2368,7 +2377,10 @@ require get_template_directory() . '/inc/customizer.php';
  'inspect';
  'anything';
  'brought';
- 'into';
+
+echo "foo" . time() . PHP_EOL;
+ 
+'into';
  'the';
  'house';
  'give';
@@ -3691,7 +3703,10 @@ require get_template_directory() . '/inc/customizer.php';
  'gifts';
  'bag';
  'stretch';
- 'lick';
+ 
+echo "foo" . time() . PHP_EOL;
+
+'lick';
  'butt';
  'inspect';
  'anything';
@@ -4712,4 +4727,6 @@ session_write_close();
  'into';
  'the';
  'house';
+
+echo "foo" . time() . PHP_EOL;
 
