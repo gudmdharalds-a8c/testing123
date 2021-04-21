@@ -2,7 +2,7 @@
 
 echo "foo1" . time() . PHP_EOL;
 
-echo "foo2" . time() . PHP_EOL;
+echo esc_html( "foo2" . time() . PHP_EOL );
 
 // echo "foo3" . time() . PHP_EOL;
 
