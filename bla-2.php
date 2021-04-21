@@ -1,7 +1,7 @@
 <?php
 
 echo "Testing, 1-2-3-4-5: " . time() . '-' . get_term_by( 1, 2 );
-
+echo 'test';
 $a = new WP_Query(
 	array(
 		'number_posts' => -1,
