@@ -1,0 +1,19 @@
+{
+  "name": "@gudmdharalds/test-npm-publish",
+  "version": "0.0.15-dev.0",
+  "description": "Test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gudmdharalds/test-npm-publish.git"
+  },
+  "author": "gudmdharalds",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gudmdharalds/test-npm-publish/issues"
+  },
+  "homepage": "https://github.com/gudmdharalds/test-npm-publish#readme"
+}
